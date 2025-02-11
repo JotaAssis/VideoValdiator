@@ -1,0 +1,1 @@
+Realizar os passos do book.ipynb
